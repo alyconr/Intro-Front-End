@@ -7,7 +7,7 @@ Lo importante de este ejercicio es que el alumno se familiarice con la mayor can
   ✔ Cómo mínimo el alumno debe de utilizar 7 tags distintos.
   ✔ Se puede utilizar texto falso para rellenar el contenido de vuestra web, por ejemplo Lorem Ipsum
 
-## Introducción HTML5 y tags Semana dos🔗
+## Actividad CSS y Boostrap Semana dos🔗
 💻
 En esta actividad se reconstruye la página web que hicimos en la primera sección del módulo, donde planteamos el árbol básico de html sin estilos. Utilizando bootstrap y css propio daremos estilo a nuestra página web. Podremos utilizar referencias visuales y recursos de diseño desde Bootstrap.
 
